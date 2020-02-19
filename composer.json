@@ -8,9 +8,12 @@
     "authors": [
         {
             "name": "Ivan de Jesus Ribeiro",
-            "email": "ivan@ijribeiro.com.br",
-            "homepage": "https://ijribeiro.com.br",
-            "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+        "PagSeguro\\": "source/"
+        }
+    }
+
 }
