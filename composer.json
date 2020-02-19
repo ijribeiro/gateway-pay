@@ -3,7 +3,6 @@
     "type": "library",
     "description": "Pagamento",
     "keywords": ["gatewayPay","gateway","Pay"],
-    "homepage": "https://ijribeiro.com.br",
     "license": "MIT",
     "authors": [
         {
